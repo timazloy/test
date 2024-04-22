@@ -54,13 +54,9 @@ const qwe = {
             tonnage: "1000",
             operation: "СТОЯНКА",
             cargo: {
-              startTime: null,
-              finishTime: null,
               loadingStartTime: null,
-              loadingFinishTime: null,
               unloadingStartTime: null,
               unloadingFinishTime: null,
-              loadingUnloadingMarker: null,
               dive: 1,
               reloadFrom: null,
               reloadTo: null,
