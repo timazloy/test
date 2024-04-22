@@ -56,13 +56,10 @@ const qwe = {
             cargo: {
               loadingStartTime: null,
               unloadingStartTime: null,
-              unloadingFinishTime: null,
-              dive: 1,
               reloadFrom: null,
               reloadTo: null,
               supportingVessel: null,
               loading: false,
-              validValueList: [
                 {
                   validValueLineId: 415,
                   id: "АФФИНАЖ",
