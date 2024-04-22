@@ -60,7 +60,6 @@ const qwe = {
               reloadTo: null,
               supportingVessel: null,
               loading: false,
-              validValueList: [
                 {
                   validValueLineId: 415,
                   id: "АФФИНАЖ",
