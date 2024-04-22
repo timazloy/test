@@ -41,12 +41,9 @@ const qwe = {
             id: "KTF.ДИКСОН-500010",
             name: "ДИКСОН",
             shortName: "ДИКС",
-            comment: null,
           },
         ],
         composition: [
-          {
-            recordId: "10056",
             prevPoint: null,
             id: "KTF.BROP-1009",
             name: "БРОП-1009",
