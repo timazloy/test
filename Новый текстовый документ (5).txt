@@ -57,7 +57,6 @@ const qwe = {
               loadingStartTime: null,
               unloadingStartTime: null,
               unloadingFinishTime: null,
-              loadingUnloadingMarker: null,
               dive: 1,
               reloadFrom: null,
               reloadTo: null,
