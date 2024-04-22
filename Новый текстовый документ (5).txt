@@ -12,7 +12,6 @@ const qwe = {
         name: "КУРАГИНО",
         shortName: null,
         externalName: null,
-        vesselType: "САМОХОДНОЕ",
         vesselKind: "БУКСИР",
         tonnage: null,
         operation: "СТОЯНКА",
