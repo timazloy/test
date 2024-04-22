@@ -41,7 +41,6 @@ const qwe = {
             id: "KTF.ДИКСОН-500010",
             name: "ДИКСОН",
             shortName: "ДИКС",
-            comment: null,
           },
         ],
         composition: [
