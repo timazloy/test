@@ -44,7 +44,6 @@ const qwe = {
           },
         ],
         composition: [
-            recordId: "10056",
             prevPoint: null,
             id: "KTF.BROP-1009",
             name: "БРОП-1009",
