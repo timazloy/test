@@ -56,7 +56,6 @@ const qwe = {
             cargo: {
               loadingStartTime: null,
               unloadingStartTime: null,
-              dive: 1,
               reloadFrom: null,
               reloadTo: null,
               supportingVessel: null,
