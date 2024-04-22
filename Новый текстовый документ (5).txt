@@ -2,15 +2,7 @@ const qwe = {
   "KTF.ШЕПЕЛЕВО-50176521112023200000": {
     pointId: "KTF.ШЕПЕЛЕВО-50176521112023200000",
     date: "2023-11-21 20:00",
-    locationId: "KTF.ШЕПЕЛЕВО-501765",
-    riverName: "ЕНИСЕЙ",
-    nextPoints: [
 
-      {
-        pointId: "KTF.ШЕПЕЛЕВО-50176522112023080000",
-        vesselId: "KTF.KRASNOTURANSK",
-
-    ],
     prevPoint: null,
     state: [
       {
