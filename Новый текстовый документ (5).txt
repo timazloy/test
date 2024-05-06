@@ -15,7 +15,6 @@ const qwe = {
         operation: "СТОЯНКА",
         cargo: {
           startTime: null,
-          finishTime: null,
           loadingStartTime: null,
           loadingFinishTime: null,
           unloadingStartTime: null,
