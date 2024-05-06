@@ -12,7 +12,6 @@ const qwe = {
         name: "КУРАГИНО",
         shortName: null,
         externalName: null,
-        tonnage: null,
         operation: "СТОЯНКА",
         cargo: {
           startTime: null,
