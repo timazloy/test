@@ -12,7 +12,6 @@ const qwe = {
         name: "КУРАГИНО",
         shortName: null,
         externalName: null,
-        operation: "СТОЯНКА",
         cargo: {
           startTime: null,
           loadingStartTime: null,
@@ -13307,18 +13306,11 @@ const qwe = {
           startTime: null,
           finishTime: null,
           loadingStartTime: "21.11.2023 10:00:00",
-          loadingFinishTime: "21.11.2023 10:00:00",
-          unloadingStartTime: null,
-          unloadingFinishTime: null,
-          loadingUnloadingMarker: "L",
           dive: 1,
           reloadFrom: null,
-          reloadTo: null,
-          supportingVessel: null,
           loading: false,
           validValueList: [
             {
-              validValueLineId: 407,
               id: "БАЗАЛЬТ",
               description: "БАЗАЛЬТ",
               weight: 2,
